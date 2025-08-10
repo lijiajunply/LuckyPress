@@ -1,0 +1,7 @@
+﻿services:
+  luckypress.netapi:
+    image: luckypress.netapi
+    build:
+      context: .
+      dockerfile: LuckyPress.NetApi/Dockerfile
+

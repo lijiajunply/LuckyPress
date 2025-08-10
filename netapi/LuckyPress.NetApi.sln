@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyPress.NetApi", "LuckyPress.NetApi\LuckyPress.NetApi.csproj", "{9F1C6BF5-ED1C-46DF-A3A2-F1BB4C4B7241}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7BF617F-D9C6-4027-9D28-A09756A4A4FC}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyPress.NetData", "LuckyPress.NetData\LuckyPress.NetData.csproj", "{0A1CB99F-D051-40E9-BA50-65C711AD8BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyPress.NetService", "LuckyPress.NetService\LuckyPress.NetService.csproj", "{5DA5D1A9-50AA-4054-B701-7E8BC934E6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyPress.AvaloniaApp", "LuckyPress.AvaloniaApp\LuckyPress.AvaloniaApp.csproj", "{DD905C75-0922-464C-92B8-905155CBC77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1C6BF5-ED1C-46DF-A3A2-F1BB4C4B7241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1C6BF5-ED1C-46DF-A3A2-F1BB4C4B7241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1C6BF5-ED1C-46DF-A3A2-F1BB4C4B7241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1C6BF5-ED1C-46DF-A3A2-F1BB4C4B7241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1CB99F-D051-40E9-BA50-65C711AD8BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1CB99F-D051-40E9-BA50-65C711AD8BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1CB99F-D051-40E9-BA50-65C711AD8BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1CB99F-D051-40E9-BA50-65C711AD8BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA5D1A9-50AA-4054-B701-7E8BC934E6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA5D1A9-50AA-4054-B701-7E8BC934E6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA5D1A9-50AA-4054-B701-7E8BC934E6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA5D1A9-50AA-4054-B701-7E8BC934E6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD905C75-0922-464C-92B8-905155CBC77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD905C75-0922-464C-92B8-905155CBC77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD905C75-0922-464C-92B8-905155CBC77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD905C75-0922-464C-92B8-905155CBC77F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
